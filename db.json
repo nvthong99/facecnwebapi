@@ -8,7 +8,9 @@
       "number_of_question": 10,
       "number_of_user": 20,
       "password": "",
-      "user": ""
+      "user": {
+        "fullname" : "Phạm Văn Thành"
+      }
     },
     {
       "contest_id": 1,
@@ -18,7 +20,9 @@
       "number_of_question": 10,
       "number_of_user": 20,
       "password": "",
-      "user": ""
+      "user": {
+        "fullname" : "Nguyễn Văn Thông"
+      }
     },
     {
       "contest_id": 1,
@@ -28,7 +32,9 @@
       "number_of_question": 10,
       "number_of_user": 20,
       "password": "",
-      "user": ""
+      "user": {
+        "fullname" : "Nguyễn Công Vượng"
+      }
     },
     {
       "contest_id": 1,
@@ -38,7 +44,9 @@
       "number_of_question": 10,
       "number_of_user": 20,
       "password": "",
-      "user": ""
+      "user": {
+        "fullname" : "Nguyễn Bá Hiếu"
+      }
     }
   ]
 }
