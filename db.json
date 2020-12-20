@@ -25,7 +25,7 @@
       }
     },
     {
-      "contest_id": 1,
+      "contest_id": 2,
       "name": "Đề thi kết thúc học phần giải tích 1",
       "time_start": "Fri Dec 18 2020 23:08:47 GMT+0700 (Giờ Đông Dương)",
       "duration": 30,
@@ -37,7 +37,7 @@
       }
     },
     {
-      "contest_id": 1,
+      "contest_id": 3,
       "name": "Đề thi kết thúc học phần giải tích 1",
       "time_start": "Fri Dec 18 2020 23:08:47 GMT+0700 (Giờ Đông Dương)",
       "duration": 30,
@@ -49,7 +49,7 @@
       }
     },
     {
-      "contest_id": 1,
+      "contest_id": 4,
       "name": "Đề thi kết thúc học phần giải tích 1",
       "time_start": "Fri Dec 18 2020 23:08:47 GMT+0700 (Giờ Đông Dương)",
       "duration": 30,
